@@ -1,0 +1,7 @@
+{
+  "name": "Accenture MEA HR Newsletter Generator",
+  "description": "An AI-powered tool for Accenture's HR team to curate and generate professional monthly newsletters focusing on talent trends, competitor moves, and labor laws in KSA, UAE, Qatar, South Africa, and Egypt.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
